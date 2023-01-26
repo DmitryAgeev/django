@@ -14,4 +14,3 @@ urlpatterns = [
         views.ProfileEditView.as_view(),
         name="profile_edit",
     ),
-]
